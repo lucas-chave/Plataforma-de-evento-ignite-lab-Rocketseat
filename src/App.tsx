@@ -1,7 +1,7 @@
 function App() {
 
   return (
-   <h1>opa</h1>
+   <h1 className="">opa</h1>
   );
 }
 
